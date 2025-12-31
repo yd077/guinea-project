@@ -1,5 +1,5 @@
 import React from 'react';
-import { Mail, Phone, MapPin, ArrowRight, MessageSquare, Clock } from 'lucide-react';
+import { Mail, Phone, MapPin, ArrowRight, Clock } from 'lucide-react';
 import { Input, Textarea } from '../components/ui/Input';
 import { Button } from '../components/ui/Button';
 

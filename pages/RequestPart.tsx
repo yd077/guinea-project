@@ -1,10 +1,10 @@
-import React, { useState, useEffect } from 'react';
+import React, { useState } from 'react';
 import { 
-  Car, Calendar, Search, Wrench, Zap, Activity,
-  Camera, Check, ChevronRight, ChevronLeft, Upload, Info, 
-  MapPin, Phone, Mail, MessageSquare, ShieldCheck, Fuel,
+  Car, Search, Wrench, Zap, Activity,
+  Camera, Check, Info, 
+  MapPin, Phone, Mail, ShieldCheck, Fuel,
   Thermometer, MoveVertical, Wind, Settings, Gauge, Lightbulb, User,
-  ArrowLeft, CreditCard, Lock, DollarSign
+  ArrowLeft, CreditCard, Lock
 } from 'lucide-react';
 import { Button } from '../components/ui/Button';
 import { Input, Textarea } from '../components/ui/Input';

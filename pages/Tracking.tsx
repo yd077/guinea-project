@@ -1,7 +1,6 @@
 import React, { useState } from 'react';
-import { Search, Package, MapPin, Truck, CheckCircle2, Clock, Calendar, Anchor, Container } from 'lucide-react';
+import { Search, Package, Truck, CheckCircle2, Clock, Anchor } from 'lucide-react';
 import { Button } from '../components/ui/Button';
-import { Input } from '../components/ui/Input';
 import { OrderStatus } from '../types';
 
 export const Tracking: React.FC = () => {
